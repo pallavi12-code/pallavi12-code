@@ -1,7 +1,6 @@
-[ Banner ]
-PALLAVI REDDY
-AI & ML Engineer
-Generative AI | Agentic AI | Data Analytics
-
-Hi 👋 I'm Pallavi Reddy
-...
+<p align="center">
+  <img src="banner.png" alt="Pallavi Reddy Banner">
+</p>
+<p align="center">
+  <img src="images/banner.png" alt="Pallavi Reddy Banner">
+</p>
