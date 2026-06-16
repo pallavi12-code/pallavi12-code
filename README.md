@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="banner.png" alt="Pallavi Reddy Banner">
+</p>
 <!--
 **pallavi12-code/pallavi12-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
