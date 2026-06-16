@@ -1,6 +1,3 @@
 <p align="center">
-  <img src="banner.png" alt="Pallavi Reddy Banner">
-</p>
-<p align="center">
-  <img src="images/banner.png" alt="Pallavi Reddy Banner">
+  <img src="Screenshot%202026-06-16%20at%2012.30.29%20PM.png" width="100%">
 </p>
