@@ -1,6 +1,3 @@
 <p align="center">
-  <img src="banner.png" width="100%">
-</p>
-<p align="center">
-  <img src="banner.png" width="70%">
+  <img src="pallavi-banner.png" width="600">
 </p>
