@@ -1,159 +1,108 @@
+<h1 align="center">Hi 👋, I'm Marikanti pallavi reddy</h1>
+<h3 align="center">Final-Year AI & ML Undergraduate | Aspiring AI/ML & Data Science Engineer | GenAI Enthusiast</h3>
 
-# Hi 👋, I'm Pallavi Reddy
-
-### 🚀 AI & ML Engineer (Aspiring) | 🤖 Generative AI Enthusiast | 🐍 Python Developer
-
-I am an Engineering student passionate about **Artificial Intelligence, Machine Learning, Generative AI, and Agentic AI systems**. I enjoy building intelligent applications that solve real-world problems through Machine Learning, Computer Vision, and Large Language Models.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pallavi12-code&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Engineering Student specializing in Artificial Intelligence & Machine Learning
-
-🤖 Passionate about AI, Machine Learning, Generative AI, and Agentic AI
-
-🌱 Continuously learning and building AI-powered solutions
-
-💡 Strong interest in solving real-world problems using data and intelligent systems
-
-🎯 Career Goal: Become an AI/ML Engineer building impactful AI applications at scale
+- 🎓 Final-Year B.E. Artificial Intelligence & Machine Learning student at **CBIT, Hyderabad**
+- 💯 Current CGPA: **8.1/10**
+- 💻 Passionate about **AI/ML, Data Science, and Generative AI**
+- 🌱 Currently exploring **RAG pipelines, LLM applications, and multi-modal ML**
+- 🚀 Building real-world projects using **Python, LangChain, TensorFlow, and LLMs**
+- 🎯 Looking for **AI/ML, Data Science & Generative AI Internship Opportunities** (Hyderabad-based or remote)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-* 🐍 Python
-* ☕ Java
-* 🗄️ SQL
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB0000?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-AI-blue?style=for-the-badge)
 
-### 🤖 AI / Machine Learning
+### 🗄️ Databases & Vector Stores
+![ChromaDB](https://img.shields.io/badge/ChromaDB-3E4C59?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0096D6?style=for-the-badge)
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Natural Language Processing (NLP)
-* Scikit-Learn
-* TensorFlow
-
-### 🧠 Generative AI
-
-* Large Language Models (LLMs)
-* Prompt Engineering
-* Retrieval-Augmented Generation (RAG)
-* LangChain
-* AI Agents
-
-### 📊 Data Analytics & Visualization
-
-* Pandas
-* NumPy
-* Matplotlib
-* Power BI
-
-### ⚙️ Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Google Colab
-* Jupyter Notebook
+### ⚙️ Frameworks & Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 🧠 Core AI/ML Areas
+## 🚀 Featured Projects
 
-🔹 Machine Learning
+### 📄 AI Resume Analyzer (RAG-based)
+- Built a Retrieval-Augmented Generation app using **LangChain, Gemini API, and ChromaDB** to analyze and match resumes.
+- Deployed with **Streamlit** for an interactive, user-facing interface.
 
-🔹 Deep Learning
+### 🩺 PCOS Multi-Modal Detection
+- Developed a multi-modal AI system combining **EfficientNetB0** with an **XGBoost/LightGBM ensemble**, tuned via **Optuna**.
+- Random Forest variant achieved **87.1% accuracy** and **0.89 AUC-ROC**.
 
-🔹 Computer Vision
+### 🛰️ Route Resilience — ISRO Bharatiya Antariksh Hackathon 2026
+- Designed an occlusion-robust road extraction pipeline from satellite imagery paired with graph-theoretic criticality analysis for urban mobility.
+- Used Bengaluru as the primary case study for resilience-focused route planning.
 
-🔹 Natural Language Processing
+### 🌾 Edge AI Post-Harvest Loss Detection
+- Built an edge-deployed detection model using **MobileNetV2** on Raspberry Pi, achieving **94%+ accuracy**.
 
-🔹 Generative AI
-
-🔹 Agentic AI
-
-🔹 Data Analytics
-
-🔹 Predictive Modeling
-
----
-
-## 🚀 Currently Working On
-
-🌾 AI Harvest Post Detection using Computer Vision
-
-🤖 Agentic AI Applications with LLMs
-
-📄 Resume Analyzer using Machine Learning
-
-🧠 Learning RAG & LangChain
-
-📈 Advanced Machine Learning & Deep Learning
+### ✈️ Flight Delay Prediction
+- Built an **LSTM**-based time-series model for flight delay prediction, achieving **71% accuracy**.
 
 ---
 
-## 📌 Featured Projects
+## 📜 Certifications & Learning
 
-### 🌾 AI Harvest Post Detection
-
-Computer Vision solution for agricultural analysis and crop monitoring using deep learning techniques.
-
-### 🤖 AI Career Assistant
-
-AI-powered assistant that helps students with internship guidance, career suggestions, and resume recommendations.
-
-### 📄 Resume Analyzer
-
-Machine Learning application that analyzes resumes and provides ATS-friendly suggestions for improvement.
-
-### 👁️ Fruit Quality Detection
-
-Computer Vision project that identifies fruit quality, freshness, and defects through image analysis.
+- 🤖 Machine Learning & AI coursework and self-directed GenAI/RAG projects
+- 📊 Data Visualization & Analytics coursework (Streamlit, NetworkX, BERT-based NLP pipeline)
+- 🧪 Quantum Computing course (K-Means Clustering)
 
 ---
 
-## 🎯 2026 Goals
+## 📊 GitHub Stats
 
-✅ Build advanced AI/ML projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pallavi12-code&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi12-code&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-✅ Master Generative AI & Agentic AI
-
-✅ Contribute to Open Source
-
-✅ Secure impactful AI/ML internships
-
-✅ Build production-ready AI applications
-
-✅ Strengthen Data Structures & Algorithms
-
-✅ Develop end-to-end AI products
-
----
-
-## 💭 Philosophy
-
-> "Learn continuously. Build consistently. Improve daily."
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pallavi12-code&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: (https://www.linkedin.com/in/pallavi-reddy-4865703a9/)
+<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/pallavi-reddy-4865703a9/)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-📧 Email: marikantipallavireddy@gmail.com
+<a href="mailto:marikantipallavireddy@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🐙 GitHub: pallav12-code
-
+<a href="https://leetcode.com/u/pallavireddyyy__/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 ---
 
-### ✨ Learning • Building • Innovating ✨
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavi12-code&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi12-code&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+<h3 align="center">✨ Learn • Build • Ship • Repeat ✨</h3>
