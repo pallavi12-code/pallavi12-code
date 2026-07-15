@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" width="600">
-</p>
+
 # Hi 👋, I'm Pallavi Reddy
 
 ### 🚀 AI & ML Engineer (Aspiring) | 🤖 Generative AI Enthusiast | 🐍 Python Developer
