@@ -56,7 +56,7 @@
 ### 📄 AI Resume Analyzer (RAG-based)
 Built a Retrieval-Augmented Generation app using **LangChain, Gemini API, and ChromaDB** to analyze and match resumes. Deployed with **Streamlit** for an interactive, user-facing interface.
 
-🔗 [View Repo](https://github.com/pallavi12-code) <!-- TODO: add exact repo link -->
+🔗 [View Repo](https://github.com/pallavi12-code/ai-interview-coach) <!-- TODO: add exact repo link -->
 
 ---
 
@@ -66,11 +66,6 @@ Multi-modal AI system combining an **EfficientNetB0** ultrasound classifier with
 🔗 [View Repo](https://github.com/pallavi12-code/PCOS-Detection-using-Machine-Learning) • 🌐 [Live Demo](https://pcos-prediction-system21.streamlit.app/)
 
 ---
-
-### 🛰️ Route Resilience — ISRO Bharatiya Antariksh Hackathon 2026
-Occlusion-robust road extraction pipeline from satellite imagery, paired with graph-theoretic criticality analysis for urban mobility resilience, using Bengaluru as the primary case study.
-
-🔗 [View Repo](https://github.com/pallavi12-code) <!-- TODO: add exact repo link -->
 
 ---
 
