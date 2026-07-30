@@ -13,7 +13,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Final-Year B.E. Artificial Intelligence & Machine Learning student at **CBIT, Hyderabad** (Graduating 2027)
-- 💯 Current CGPA: **8.1/10**
+- 💯 Current CGPA: **8.2/10**
 - 💻 Passionate about **AI/ML, Data Science, and Generative AI**
 - 🌱 Currently exploring **RAG pipelines, LLM applications, and multi-modal ML**
 - 🔭 Currently building an **AI Mock Interview Coach** (Streamlit + Gemini API) and researching a **QR-based smart print kiosk** for my major project
