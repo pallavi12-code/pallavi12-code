@@ -1,44 +1,59 @@
 # Hi, I'm Pallavi Reddy 👋
 
-### AI/ML Engineering Student | Software Development
+### AI/ML Engineering Student • Software Development • AI Engineering
 
-I'm an engineering student interested in **Artificial Intelligence, Machine Learning, and software development**, building practical projects that solve real-world problems.
+I build practical **AI/ML and software projects** with an emphasis on usable applications, reproducible pipelines, and clean engineering practices.
 
-## 🛠️ Technical Skills
+🎓 **B.E. Artificial Intelligence & Machine Learning — CBIT Hyderabad**  
+📅 **Graduating 2027**
 
-**Languages:** Python, Java, JavaScript, SQL
+## What I work with
 
-**AI/ML:** Machine Learning, Deep Learning, NLP, Computer Vision, Scikit-learn, TensorFlow, PyTorch
+**Languages**  
+Python · Java · JavaScript · SQL
 
-**Development:** React.js, Node.js, FastAPI, HTML, CSS
+**AI / ML**  
+Machine Learning · Deep Learning · NLP · Computer Vision · Scikit-learn · TensorFlow · PyTorch
 
-**Databases:** MySQL, MongoDB, SQLite
+**Application Development**  
+FastAPI · React.js · Node.js · Streamlit · HTML · CSS
 
-**Tools:** Git, GitHub, Docker, VS Code
+**Data & Databases**  
+Pandas · NumPy · MySQL · MongoDB · SQLite
 
-## 🚀 Featured Projects
+**Engineering Tools**  
+Git · GitHub · Docker · VS Code
 
-* 🌱 **Edge AI for Post-Harvest Loss Reduction** — AI-based computer vision system for detecting fruit quality and reducing post-harvest losses.
-* 🤖 **AI Interview Coach** — AI-powered application designed to help users practice and improve technical interviews.
-* 🧠 **PCOS Detection using Machine Learning** — Machine learning project for predicting PCOS risk from medical and lifestyle features.
-* ✈️ **Flight Delay Detection** — Machine learning project for analyzing and predicting flight delays.
-* ⚙️ **MLOps Pipeline** — Dockerized machine-learning pipeline with reproducible execution, logging, and structured metrics.
-* 🌐 **Multilingual Social Media Analysis** — NLP-based analysis of multilingual social media data.
+## Featured work
 
-## 📚 Currently Learning
+| Project | Focus |
+|---|---|
+| 🌸 **PCOS Predict** | Multi-modal ML + medical image classification + explainability |
+| 🎤 **AI Interview Coach** | Gemini-powered GenAI application with structured evaluation |
+| ✈️ **Flight Delay Prediction** | LSTM sequence modeling + imbalanced classification |
+| 🍎 **Edge AI Fruit Quality** | MobileNetV2 transfer learning for lightweight vision |
+| ⚙️ **MLOps Batch Pipeline** | Dockerized, deterministic data-processing pipeline |
+| 💊 **Pharma Sales Analytics** | Python + SQL + Streamlit business analytics |
 
-* Data Structures & Algorithms with Java
-* Machine Learning & Deep Learning
-* AI Engineering
-* Backend Development
-* MLOps and Cloud Technologies
+## Currently improving
 
-## 📫 Connect With Me
+- Data Structures & Algorithms with Java
+- AI engineering and LLM applications
+- Backend development with FastAPI
+- MLOps, testing, CI/CD and Docker
+- Systematic software engineering practices
 
-* GitHub: [@pallavi12-code](https://github.com/pallavi12-code)
-* LinkedIn: https://www.linkedin.com/in/pallavi-reddy-4865703a9/
+## Engineering philosophy
+
+> Build it → test it → document it → improve it.
+
+I prefer projects that demonstrate **working systems and engineering decisions**, not just notebooks or screenshots.
+
+## Connect
+
+- **GitHub:** [@pallavi12-code](https://github.com/pallavi12-code)
+- **LinkedIn:** [Pallavi Reddy](https://www.linkedin.com/in/pallavi-reddy-4865703a9/)
 
 ---
 
-⭐ I enjoy learning by building projects and continuously improving my engineering skills.
-
+⭐ Always learning, building, and improving.
